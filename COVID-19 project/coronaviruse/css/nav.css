@@ -1,0 +1,34 @@
+nav 
+    ul {
+        display: flex;
+        justify-content: center;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background: #cf82ee;
+      }
+      
+      li {
+        float: left;
+        padding: 10px;
+      }
+      
+      a {
+        font-size: 24px;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+
+      li a:hover {
+        background-color: #7c7a7a;
+      }
+      
+
+li {
+    padding:10px ;
+}
